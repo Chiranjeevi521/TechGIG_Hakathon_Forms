@@ -2478,15 +2478,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\cadasa\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "CustomerForm",
       "projectName": "CustomerForm",
-      "projectPath": "D:\\UIPath_Hackathon_Forms\\TechGIG_Hakathon_Forms\\CustomerForm\\.local",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\UIPath_Hackathon_Forms\\TechGIG_Hakathon_Forms\\CustomerForm\\.local"
+      "projectPath": "D:\\Office\\Automation\\TechGIG_HackAThon_Forms\\TechGIG_Hakathon_Forms\\CustomerForm\\.local",
+      "packagesPath": "C:\\Users\\cadasa\\.nuget\\packages\\",
+      "outputPath": "D:\\Office\\Automation\\TechGIG_HackAThon_Forms\\TechGIG_Hakathon_Forms\\CustomerForm\\.local"
     },
     "frameworks": {
       "net461": {
@@ -2524,21 +2524,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Threading.Tasks.Extensions 4.5.1' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "System.Threading.Tasks.Extensions"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Runtime.CompilerServices.Unsafe 4.5.2' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "System.Runtime.CompilerServices.Unsafe"
-    }
-  ]
+  }
 }
